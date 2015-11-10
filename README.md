@@ -11,6 +11,7 @@
 2. node, npm の正しい使い方
    * package.json
    * npm install --save-dev
+   * npm run
    * npm shrinkwrap
 3. Browserify
    * 環境構築
