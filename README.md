@@ -19,6 +19,8 @@
 4. Babel
    * 環境構築
    * 使ってみる
+4. Babel + Browserify
+   * やってみる
 5. babelify
    * 環境構築
    * 使ってみる
