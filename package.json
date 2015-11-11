@@ -1,10 +1,14 @@
 {
   "devDependencies": {
+    "babelify": "^6.0.0",
+    "browserify": "^12.0.1",
     "jade": "^1.11.0"
   },
   "scripts": {
     "test": "echo \"test\"",
     "postinstall": "echo \"postinstall\"",
-    "jade": "which jade"
+    "jade": "which jade",
+    "browserify": "browserify -t babelify entry.js > compiled.js",
+    "babel": "babel -v"
   }
 }
