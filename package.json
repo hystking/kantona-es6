@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "jade": "^1.11.0"
+  },
+  "scripts": {
+    "test": "echo \"test\"",
+    "postinstall": "echo \"postinstall\"",
+    "jade": "which jade"
+  }
+}
