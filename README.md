@@ -32,4 +32,6 @@
 5. Default parameters
 6. Destructuring
 7. For of
-8. Modules
+8. Promises
+9. Generators
+10. Modules
