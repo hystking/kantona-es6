@@ -3,6 +3,6 @@ module.exports = function(){
   console.log(a);
 
   const b = {};
-  // :b = "aaa";
+  // b = "aaa";
   b.c = 1;
 }
