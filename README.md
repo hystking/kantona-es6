@@ -34,6 +34,7 @@
 7. For of
 8. Promises
 9. Generators
+9.5. Classes2
 10. Modules
 
 ### React
